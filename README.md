@@ -53,7 +53,3 @@ Datasets
 
     NSL-KDD: Provided in KDDTrain+.txt and KDDTest+.txt.
     UNSW-NB15: Provided in UNSW_NB15_training-set.csv and included in dataset.zip.
-
-License
-
-This project is released under the MIT License.
